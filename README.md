@@ -1,2 +1,1 @@
-# frontend-task-manager
-Simple task manager built with HTML, CSS and JavaScript
+🔗 Demo: https://harriRestrepo12.github.io/frontend-task-manager/
